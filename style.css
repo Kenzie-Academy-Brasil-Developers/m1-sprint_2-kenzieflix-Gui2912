@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+
+
+.cabecalhoPrincipal{
+    margin: 40px 100px 50px 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+}
+
+.container{
+    max-width: 700px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin:10px 20%;
+
+}
+
+.container img{
+    border: solid 2px;
+    border-color: black;
+    border-radius: 4px;
+}
+
+.container img:hover{
+    border-color: rgb(255, 255, 255);
+}
+
+.container div{
+    max-width: 160px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;  
+}
+
+
+.container figure{
+    align-items: center;
+    justify-content: space-around;
+    justify-content: space-around;
+}
+
+#addPerfil img{
+    padding: 45px;
+    width: 69px;
+    opacity: 0.5;
+}
+
+#addPerfil img:hover{
+    opacity: 1;
+}
+
+.container input{
+    margin-top: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: #fff;
+    border: solid 1px #fff;
+    border-radius: 10px;
+}
+
+.container input:hover{
+    background-color: #fff;
+    color: black;
+
+}
