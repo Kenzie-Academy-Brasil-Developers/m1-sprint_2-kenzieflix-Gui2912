@@ -2,7 +2,6 @@ body{
     background-color: black;
 }
 
-
 .cabecalhoPrincipal{
     margin: 40px 100px 50px 30px;
     color: #fff;
@@ -16,7 +15,6 @@ body{
     justify-content: center;
     justify-content: space-around;
     margin:10px 20%;
-
 }
 
 .container img{
@@ -66,5 +64,4 @@ body{
 .container input:hover{
     background-color: #fff;
     color: black;
-
 }
